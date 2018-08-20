@@ -30,5 +30,8 @@
     * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist/blob/master/README.md)
     * [Page Performance with Chrome Dev Tools](https://www.youtube.com/watch?v=yRrrL0Mg1pM)
 6. Vue.js
-
+    * [Vue.js SEO Tips](https://alligator.io/vuejs/vue-seo-tips/?utm_content=bufferb378e&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+    * [Renderless Components in Vue.js](https://adamwathan.me/renderless-components-in-vuejs/)
+    * [A Killer Vue.js Blog Demo: Launch in 2 Hours Tops](https://snipcart.com/blog/vuejs-blog-demo)
+    * [The Best Explanation of JavaScript Reactivit](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
   
