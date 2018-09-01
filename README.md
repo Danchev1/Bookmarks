@@ -37,3 +37,5 @@
     * [Vue.js Tutorial: An Example to Build and Prerender an SEO-Friendly Site](https://snipcart.com/blog/vuejs-tutorial-seo-example?utm_content=buffera62bc&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
     * [5 Tools for Faster Vue.js App Development](https://blog.bitsrc.io/5-tools-for-faster-vue-js-app-development-ad7eda1ee6a8)
   
+7. Desgin
+    * [How to Design for the Modern Web](https://medium.com/commitlog/how-to-design-for-the-modern-web-52eaa926bae2)
