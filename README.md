@@ -36,6 +36,7 @@
     * [The Best Explanation of JavaScript Reactivit](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
     * [Vue.js Tutorial: An Example to Build and Prerender an SEO-Friendly Site](https://snipcart.com/blog/vuejs-tutorial-seo-example?utm_content=buffera62bc&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
     * [5 Tools for Faster Vue.js App Development](https://blog.bitsrc.io/5-tools-for-faster-vue-js-app-development-ad7eda1ee6a8)
+    * [Getting Started with Vue.js Plugins [Production-Ready Example]](https://snipcart.com/blog/vue-js-plugin)
   
 7. React
     * [React Performance – A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/)
