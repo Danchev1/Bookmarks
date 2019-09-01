@@ -1,7 +1,7 @@
 # Bookmarks
 
-HTML5
------
+1. HTML5
+========
 2. CSS
     * [Design Shack - CSS snippets and UI](https://designshack.net/category/articles/css/)
     * [What’s the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
