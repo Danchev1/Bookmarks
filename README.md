@@ -1,8 +1,10 @@
 # Bookmarks
 
-1. HTML5
-========
-2. CSS
+HTML5
+=====
+CSS
+===
+
     * [Design Shack - CSS snippets and UI](https://designshack.net/category/articles/css/)
     * [What’s the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
     * [Under the hood: CSS & JS animation and how to optimize them ](https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-css-and-js-animations-how-to-optimize-their-performance-db0e79586216)
@@ -13,7 +15,9 @@
     * [If you really dislike FOUT, `font-display: optional` might be your jam](https://css-tricks.com/really-dislike-fout-font-display-optional-might-jam/)
     * [New flexbox guides on MDN](https://hacks.mozilla.org/2018/01/new-flexbox-guides-on-mdn/)
    
-3. Javascript
+Javascript
+==========
+
     * [Check out these useful ECMAScript 2015 (ES6) tips and tricks](https://medium.freecodecamp.org/check-out-these-useful-ecmascript-2015-es6-tips-and-tricks-6db105590377)
     * [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
     * [Understanding JavaScript Proxies by Examining on-change Library](https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2)
