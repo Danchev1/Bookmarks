@@ -19,6 +19,7 @@ Javascript
   Sinon.js
   --------
   * [Stub dependecies with Sinon.js](https://codeburst.io/stub-dependencies-with-sinon-js-259ac12379b9)
+  * [Excelling with Sinon.js](https://medium.com/building-ibotta/excelling-with-sinon-js-be35b974b75e)
 
 Vanilla JS
 ----------
