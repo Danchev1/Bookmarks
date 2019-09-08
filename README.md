@@ -22,6 +22,7 @@ Javascript
   * [Excelling with Sinon.js](https://medium.com/building-ibotta/excelling-with-sinon-js-be35b974b75e)
   * [Best Practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js?fbclid=IwAR1GfHunEl259K5htR2S0z7z64TEFxGs3Gh7B5RO922W3F5g1iAWsIvF_gc)
   * [Getting to 99.9% test coverage with Mocks, Stubs & Spies](https://medium.com/the-andela-way/getting-to-99-9-test-coverage-with-mocks-stubs-spies-ecdd3d4aaf9a)
+  * [Testing Vue: note on Sinon & Vue DOM Event Handler](https://medium.com/@MohannadNaj/testing-vue-note-on-sinon-vue-dom-event-handler-d0654b8e7c7f)
 
 Vanilla JS
 ----------
