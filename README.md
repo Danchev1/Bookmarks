@@ -1,5 +1,7 @@
 # Bookmarks
 
+[A comprehensive list of new ES features, including ES2015 (ES6), ES2016, ES2017, ES2018, ES2019](https://github.com/daumann/ECMAScript-new-features-list)
+
 HTML5
 =====
 CSS
