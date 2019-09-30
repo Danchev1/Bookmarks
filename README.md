@@ -6,6 +6,7 @@ HTML5
 =====
 CSS
 ===
+ * [My favorite CSS hack](https://dev.to/gajus/my-favorite-css-hack-32g3)
  * [Design Shack - CSS snippets and UI](https://designshack.net/category/articles/css/)
  * [What’s the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
  * [Under the hood: CSS & JS animation and how to optimize them ](https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-css-and-js-animations-how-to-optimize-their-performance-db0e79586216)
