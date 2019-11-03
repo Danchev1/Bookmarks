@@ -33,6 +33,7 @@ Javascript
 
 Vanilla JS
 ----------
+ * [JavaScript Internals: Prototypal Inheritance](https://medium.com/better-programming/javascript-internals-prototypal-inheritance-14b009dd89c8)
  * [Check out these useful ECMAScript 2015 (ES6) tips and tricks](https://medium.freecodecamp.org/check-out-these-useful-ecmascript-2015-es6-tips-and-tricks-6db105590377)
  * [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
  * [Understanding JavaScript Proxies by Examining on-change Library](https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2)
