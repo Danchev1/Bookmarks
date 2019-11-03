@@ -44,6 +44,7 @@ Vanilla JS
  * [How to Use Webpack for Killer Refactoring](https://snipcart.com/blog/how-to-use-webpack-for-killer-refactoring)
  * [The Best Explanation of JavaScript Reactivity](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
  * [How to Improve Your JavaScript Skills by Writing Your Own Web Development Framework](https://medium.freecodecamp.org/how-to-improve-your-javascript-skills-by-writing-your-own-web-development-framework-eed2226f190)
+ * [5 simple (?) algorithms for JavaScript Developers.](https://medium.com/@cis.bart/5-simple-algorithms-for-javascript-developers-7e1a15468080)
 4. HTTPS/AJAX/REST API
     * [API Directory](https://www.programmableweb.com/apis/directory) 
 5. Optimization
