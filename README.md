@@ -33,6 +33,7 @@ Javascript
 
 Vanilla JS
 ----------
+ * [JavaScript’s Memory Model](https://medium.com/@ethannam/javascripts-memory-model-7c972cd2c239)
  * [4 Dangerous Problems in JavaScript Easily Solved by the Builder Design Pattern](https://medium.com/better-programming/4-dangerous-problems-in-javascript-easily-solved-by-the-builder-design-pattern-7f0eb5b4455c)
  * [JavaScript Internals: Prototypal Inheritance](https://medium.com/better-programming/javascript-internals-prototypal-inheritance-14b009dd89c8)
  * [Check out these useful ECMAScript 2015 (ES6) tips and tricks](https://medium.freecodecamp.org/check-out-these-useful-ecmascript-2015-es6-tips-and-tricks-6db105590377)
