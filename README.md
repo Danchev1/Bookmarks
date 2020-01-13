@@ -33,6 +33,10 @@ Javascript
 
 Vanilla JS
 ----------
+#### First-class functions
+ * [First-class functions MDN](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function)
+ * [JavaScript Weekly: An Introduction to First-Class Functions](https://medium.com/launch-school/javascript-weekly-an-introduction-to-first-class-functions-9d069e6fb137)
+
  * [JavaScript’s Memory Model](https://medium.com/@ethannam/javascripts-memory-model-7c972cd2c239)
  * [4 Dangerous Problems in JavaScript Easily Solved by the Builder Design Pattern](https://medium.com/better-programming/4-dangerous-problems-in-javascript-easily-solved-by-the-builder-design-pattern-7f0eb5b4455c)
  * [JavaScript Internals: Prototypal Inheritance](https://medium.com/better-programming/javascript-internals-prototypal-inheritance-14b009dd89c8)
