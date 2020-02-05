@@ -35,6 +35,7 @@ Vanilla JS
 ----------
 #### First-class functions
  * [First-class functions MDN](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function)
+ 
  * [JavaScript Weekly: An Introduction to First-Class Functions](https://medium.com/launch-school/javascript-weekly-an-introduction-to-first-class-functions-9d069e6fb137)
 
  * [JavaScript’s Memory Model](https://medium.com/@ethannam/javascripts-memory-model-7c972cd2c239)
