@@ -73,3 +73,10 @@ Vanilla JS
     * [React Performance – A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/)
 8. Desgin
     * [How to Design for the Modern Web](https://medium.com/commitlog/how-to-design-for-the-modern-web-52eaa926bae2)
+ 
+  Node.js
+  --------
+  #### NPM
+   * [The Mystical & Magical SemVer Ranges Used By npm & Bower](https://www.telerik.com/blogs/the-mystical-magical-semver-ranges-used-by-npm-bower)
+  
+    
