@@ -78,5 +78,6 @@ Vanilla JS
   --------
   #### NPM
    * [The Mystical & Magical SemVer Ranges Used By npm & Bower](https://www.telerik.com/blogs/the-mystical-magical-semver-ranges-used-by-npm-bower)
+   * [But what the hell is package-lock.json?](https://dev.to/saurabhdaware/but-what-the-hell-is-package-lock-json-b04)
   
     
